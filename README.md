@@ -63,7 +63,7 @@ Signed,
 * [Rich Murphey(@rich-murphey)](https://github.com/rich-murphey)
 * [Starfear(@starfear)](https://github.com/starfear)
 * [Hendrik Sollich (@hoodie_de)](https://github.com/hoodie)
-
+* [lwp001 (@lwp001)](https://github.com/lwp001)
 ## Other articles of support
 
 * [A sad day for Rust](https://words.steveklabnik.com/a-sad-day-for-rust)
